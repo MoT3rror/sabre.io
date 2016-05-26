@@ -97,7 +97,7 @@ Need attributes? Use the extended syntax:
             ],
             'value' => 'Sabre website',
         ]
-    ]);
+    );
 
 This could output:
 
